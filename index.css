@@ -1,0 +1,49 @@
+
+html,body{
+    height:100%;
+    margin:0px 0px 0px 0px;
+}
+#pageContent{
+    height:fit-content;
+    width:100%;
+    background-color:blueviolet;
+}
+#websiteNavigation{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly; 
+    height:fit-content;
+}
+.project{
+    height: fit-content;
+    justify-content: center;
+    width:50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:5%;
+    padding-top:1%;
+    padding-bottom:1%;
+    
+}
+.titleProject{
+    width:fit-content;
+    margin-left: auto;
+    margin-right: auto;    
+}
+.blue{
+    background-color:blue;
+}
+.black{
+    background-color: black;
+}
+.red{
+    background-color:red;
+}
+.yellow{
+    background-color:yellow;
+    
+}
+.lightgreen{
+    background-color:lightgreen;
+}
